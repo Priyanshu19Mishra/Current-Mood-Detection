@@ -7,6 +7,10 @@ These 9 Sub Categories are:
 1. Depressed
 2. Non-Depressed
 3. Stress
-4. Bipolar Disorder
-5. 
+4. No stress
+5. Bipolar Disorder
+6. Anxiety
+7. Mental
+8. Non-Mental
+9. Personality Disorder
 
