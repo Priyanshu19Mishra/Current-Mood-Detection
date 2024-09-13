@@ -14,3 +14,9 @@ These 9 Sub Categories are:
 8. Non-Mental
 9. Personality Disorder
 
+
+The first and the  most important task in this implementation is the combination of the dataset.
+All these categories are individually monitored over various models, to have an integrated model to monitor all these, requires an intergrated dataset. 
+
+Above python file named as "Psychology Part 1", explores and implement the same part of the research that goes on to integrate different datasets into a single dataset. 
+
