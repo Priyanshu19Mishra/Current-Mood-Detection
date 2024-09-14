@@ -21,4 +21,6 @@ All these categories are individually monitored over various models, to have an 
 Above python file named as "Psychology Part 1", explores and implement the same part of the research that goes on to integrate different datasets into a single dataset. 
 
 There are many different ways to implement the research on the current mood detection. Looking at the type of data, that is textual data, I have implemented the research using the GRU architecture. The file for the same has been added. 
+Processing different sequence of data through GRU, as GRUs are well know for their working over the sequence of the textual data. 
+The performance matrix of the GRU has been shared in the added files of the repository. 
 
