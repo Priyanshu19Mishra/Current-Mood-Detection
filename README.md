@@ -24,3 +24,6 @@ There are many different ways to implement the research on the current mood dete
 Processing different sequence of data through GRU, as GRUs are well know for their working over the sequence of the textual data. 
 The performance matrix of the GRU has been shared in the added files of the repository. 
 
+Image  folder cover all the visuals of the dataset. Various parameters of the categories has been shared through the graphs.
+
+
