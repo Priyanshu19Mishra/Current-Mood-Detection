@@ -26,4 +26,6 @@ The performance matrix of the GRU has been shared in the added files of the repo
 
 Image  folder cover all the visuals of the dataset. Various parameters of the categories has been shared through the graphs.
 
+The python file named as "Psychology Using GRU" shows the implementation using GRU architecture. 
+
 
