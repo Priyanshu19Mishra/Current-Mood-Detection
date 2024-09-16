@@ -25,6 +25,7 @@ Processing different sequence of data through GRU, as GRUs are well know for the
 The performance matrix of the GRU has been shared in the added files of the repository. 
 
 The file name Psychological Mood Detection(GRU) has been added in the repository that shows the implementation using GRU for the research work.
+The implementation has been done in the python language. 
 
 Image  folder cover all the visuals of the dataset. Various parameters of the categories has been shared through the graphs.
 
