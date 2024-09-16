@@ -30,5 +30,6 @@ The implementation has been done in the python language.
 Image  folder cover all the visuals of the dataset. Various parameters of the categories has been shared through the graphs.
 
 The python file named as "Psychology Using GRU" shows the implementation using GRU architecture. 
+This research can prove to be the foundation of machine learning in the world of psychology.
 
 
